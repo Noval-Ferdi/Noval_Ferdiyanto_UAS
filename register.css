@@ -1,0 +1,25 @@
+.card {
+    margin-top: 150px;
+    color: white;
+    background-color: rgb(26, 25, 25);
+}
+
+.login {
+    background-image: linear-gradient(blue, white);
+    height: 100vh;
+    overflow: hidden;
+}
+
+.akun{
+    background-image: linear-gradient(to right, blue , white);
+}
+
+.iya{
+    background-color: blue;
+    font-weight: 700;
+}
+
+.iya:hover{
+    background-color: white;
+    color: black;
+}
